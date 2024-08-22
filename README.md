@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oie, bem vindo ao meu perfil :)
 
-<!--
-**Helo-Ias29/Helo-Ias29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Me Chamo Maria Heloisa_
+- Estou no 1 ano do ensino medio
+- Estou estudando na [Aura](https://cursos.alura.com.br)
+- Estou me desenvolvendo na lingem do javaScript
+- Utilizo esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Entrar em contato comigo 📖
+00001091709889sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://tenor.com/pt-BR/view/anime-aaaa-yelling-scream-mad-gif-2566373336159153327)
+
